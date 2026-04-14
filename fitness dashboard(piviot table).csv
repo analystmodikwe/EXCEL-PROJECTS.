@@ -1,0 +1,51 @@
+Count of is_fit;Column Labels;;;
+Row Labels;Middle Age;Old;Youth;Grand Total
+Female;312;430;288;1030
+Male;337;379;254;970
+Grand Total;649;809;542;2000
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Average of weight_kg;Column Labels;;;
+Row Labels;Female;Male;Grand Total;
+Middle Age;84,369;82,027;83,153;
+Old;83,800;85,045;84,383;
+Youth;83,267;82,157;82,747;
+Grand Total;83,823;83,240;83,541;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Row Labels;Average of weight_kg;;;
+No;85,396;;;
+Yes;80,751;;;
+Grand Total;83,541;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Max of weight_kg;Min of weight_kg;Average of weight_kg;Sum of weight_kg;
+250;30;83,541;167081;
